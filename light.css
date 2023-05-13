@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(224, 224, 224);
+    color: rgb(37, 37, 37);
+}
+
+.intro__link {
+    border: 2px solid rgb(37, 37, 37);
+    background-color: rgb(37, 37, 37);
+    color: rgb(224, 224, 224);
+}
+
+a {
+    color: rgb(37, 37, 37);
+}
+
+.main__search {
+    background-color: rgb(169, 169, 169);
+}
